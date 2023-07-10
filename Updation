@@ -1,0 +1,6 @@
+After making few changes:
+
+-> git status
+-> git add .
+-> git commit -m "some changes"
+-> git push
