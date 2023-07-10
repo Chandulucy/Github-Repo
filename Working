@@ -18,7 +18,4 @@ Adding a file to a repository using the command line
 
 ->Stage the file for commit to your local repository - $ git add .
 ->Commit the file that you've staged in your local repository - $ git commit -m "Add existing file"
-->Push the changes in your local repository to GitHub.com - $ git push origin YOUR_BRANCH
-
-
-
+->Push the changes in your local repository to GitHub.com - $ git push 
