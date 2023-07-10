@@ -1,0 +1,8 @@
+In order to push the code to githu under account, we are going to prove taht githu that am the owner of the account.
+So have to connect local macgine to github account.The way tis is done y using SSH keys.
+We need to start generating SSH Keys 
+Gen command then you specif the type of command
+
+-> ssh-keygen -t rsa -b 4096 -C "Email@gmail.com"
+-> enter
+->Passcode+ verify
