@@ -1,0 +1,24 @@
+Lets create a Repository in GitHub
+
+-> New
+->Repository
+->Repository Name
+->Title
+->Click Create Repository
+
+Cloning a repository
+->Repository Name 
+->Code
+->Copy URL from Repository
+->Open Git Bash
+->Type "git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY"
+->Enter (Local Clone would be created)
+
+Adding a file to a repository using the command line
+
+->Stage the file for commit to your local repository - $ git add .
+->Commit the file that you've staged in your local repository - $ git commit -m "Add existing file"
+->Push the changes in your local repository to GitHub.com - $ git push origin YOUR_BRANCH
+
+
+
