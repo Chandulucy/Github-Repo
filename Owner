@@ -3,6 +3,12 @@ So have to connect local macgine to github account.The way tis is done y using S
 We need to start generating SSH Keys 
 Gen command then you specif the type of command
 
--> ssh-keygen -t rsa -b 4096 -C "Email@gmail.com"
+-> ssh-keygen -t rsa -b 4096 -C "Email@gmail.com" (Generating private key, Enter file to save private key->passphrase)
 -> enter
-->Passcode+ verify
+->passphrasel+ verify
+
+-> Go to GitHub
+->Setting
+->SSH and GPG Keys
+->Paste the key(Which is in public) and save 
+-----------To Be Continued_____
